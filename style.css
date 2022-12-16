@@ -1,0 +1,50 @@
+body{
+    background: black;
+}
+
+#mainbody{
+   
+    margin-left: 40%;
+    margin-top: 14%;
+    background: linear-gradient(#097921,#7fa0b3);
+    width: 280px;
+    height: 400px;
+    border: solid 6px;
+    border-radius: 38px;
+        border-color: yellow;}
+
+#Screen{
+    width: 85%;
+    height: 40px;
+    border: width 5px;
+    margin-left: 18px;
+    margin-top: 13px;
+    border-color: yellow;
+    border-radius: 8px;
+    font-size: xx-large;
+    font-family: sans-serif;
+    pointer-events:none;
+    border-width: 5px;
+}
+.but{
+    width: 240px;
+    height: 35px;
+    margin-left: 1px;}
+
+    button{
+        width: 37px;
+        height: 45px;
+        margin-top: 16px;
+        background: linear-gradient(rgb(0, 242, 255),rgb(85, 19, 218));
+        margin-left:  10px; 
+        border: solid #4a0979;
+        border-radius:  34px;
+        font-size: 24px;
+        font-weight: 600;
+        font-family: sans-serif;
+
+    }
+    button:hover{
+        cursor:pointer;
+        background: linear-gradient(rgb(0, 242, 255),rgb(122, 74, 217));
+    }
